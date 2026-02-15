@@ -3,4 +3,4 @@ This repo holds code for [ArgusSAR: A Multi-dimensional Perception and Robust De
 
 # The overall architecture
 The ArgusSAR framework is composed of Spatial Encoder, Fine-grained Feature Aggregation Encoder, and Multi-dimensional Awareness Attention Decoder
-![overall architecture](datasets/figure.png)
+![overall architecture](figure.jpg)
