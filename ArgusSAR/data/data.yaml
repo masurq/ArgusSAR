@@ -1,0 +1,12 @@
+
+# Dataset Root Path
+path: ../data/..
+
+# Train and Val Image directories
+train: images/train
+val: images/test
+
+# Classes
+nc: 1                   # number of classes
+names:
+  0: ship               # class name
