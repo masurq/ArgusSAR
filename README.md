@@ -1,5 +1,7 @@
 # ArgusSAR
-This repo holds code for [ArgusSAR: A Multi-dimensional Perception and Robust Detection Method for Multi-scale Objects in SAR Images].The source code will be made public soon. Please wait.
+This repo holds code for [ArgusSAR: A Multi-dimensional Perception and Robust Detection Method for Multi-scale Objects in SAR Images].
+
+Paper link: [IEEE Xplore](https://ieeexplore.ieee.org/document/11408003)
 
 # The overall architecture
 The ArgusSAR framework is composed of Spatial Encoder, Fine-grained Feature Aggregation Encoder, and Multi-dimensional Awareness Attention Decoder.
